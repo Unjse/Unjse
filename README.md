@@ -1,1 +1,1 @@
-<iframe src="vk.com" />
+<iframe src="https://vk.com"></iframe>
